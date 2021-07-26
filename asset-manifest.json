@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.0a008a2e.chunk.css",
-    "main.js": "/static/js/main.29a3629b.chunk.js",
-    "main.js.map": "/static/js/main.29a3629b.chunk.js.map",
+    "main.css": "/static/css/main.627d4317.chunk.css",
+    "main.js": "/static/js/main.c731ac80.chunk.js",
+    "main.js.map": "/static/js/main.c731ac80.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.12b8265c.js",
     "runtime-main.js.map": "/static/js/runtime-main.12b8265c.js.map",
     "static/js/2.25442c46.chunk.js": "/static/js/2.25442c46.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.9b245b38.chunk.js": "/static/js/3.9b245b38.chunk.js",
     "static/js/3.9b245b38.chunk.js.map": "/static/js/3.9b245b38.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.0a008a2e.chunk.css.map": "/static/css/main.0a008a2e.chunk.css.map",
+    "static/css/main.627d4317.chunk.css.map": "/static/css/main.627d4317.chunk.css.map",
     "static/js/2.25442c46.chunk.js.LICENSE.txt": "/static/js/2.25442c46.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/Daydreamer.4d12ddbf.ttf",
     "static/media/Untitled_Artwork.c8e76ca0.png": "/static/media/Untitled_Artwork.c8e76ca0.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.12b8265c.js",
     "static/js/2.25442c46.chunk.js",
-    "static/css/main.0a008a2e.chunk.css",
-    "static/js/main.29a3629b.chunk.js"
+    "static/css/main.627d4317.chunk.css",
+    "static/js/main.c731ac80.chunk.js"
   ]
 }
