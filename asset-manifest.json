@@ -1,24 +1,35 @@
 {
   "files": {
-    "main.css": "/static/css/main.627d4317.chunk.css",
-    "main.js": "/static/js/main.c731ac80.chunk.js",
-    "main.js.map": "/static/js/main.c731ac80.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.12b8265c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.12b8265c.js.map",
-    "static/js/2.25442c46.chunk.js": "/static/js/2.25442c46.chunk.js",
-    "static/js/2.25442c46.chunk.js.map": "/static/js/2.25442c46.chunk.js.map",
-    "static/js/3.9b245b38.chunk.js": "/static/js/3.9b245b38.chunk.js",
-    "static/js/3.9b245b38.chunk.js.map": "/static/js/3.9b245b38.chunk.js.map",
+    "main.css": "/static/css/main.6c9a5f73.chunk.css",
+    "main.js": "/static/js/main.e82f2ef3.chunk.js",
+    "main.js.map": "/static/js/main.e82f2ef3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f2b308f2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f2b308f2.js.map",
+    "static/js/2.84b03e95.chunk.js": "/static/js/2.84b03e95.chunk.js",
+    "static/js/2.84b03e95.chunk.js.map": "/static/js/2.84b03e95.chunk.js.map",
+    "static/js/3.9332282d.chunk.js": "/static/js/3.9332282d.chunk.js",
+    "static/js/3.9332282d.chunk.js.map": "/static/js/3.9332282d.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.627d4317.chunk.css.map": "/static/css/main.627d4317.chunk.css.map",
-    "static/js/2.25442c46.chunk.js.LICENSE.txt": "/static/js/2.25442c46.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/Daydreamer.4d12ddbf.ttf",
-    "static/media/Untitled_Artwork.c8e76ca0.png": "/static/media/Untitled_Artwork.c8e76ca0.png"
+    "static/css/main.6c9a5f73.chunk.css.map": "/static/css/main.6c9a5f73.chunk.css.map",
+    "static/js/2.84b03e95.chunk.js.LICENSE.txt": "/static/js/2.84b03e95.chunk.js.LICENSE.txt",
+    "static/media/TexasDGcrop.7ca01e25.png": "/static/media/TexasDGcrop.7ca01e25.png",
+    "static/media/Untitled_Artwork.c8e76ca0.png": "/static/media/Untitled_Artwork.c8e76ca0.png",
+    "static/media/costaRicaBack2.22c5ef75.jpeg": "/static/media/costaRicaBack2.22c5ef75.jpeg",
+    "static/media/costaRicaFront2.324a4da2.jpeg": "/static/media/costaRicaFront2.324a4da2.jpeg",
+    "static/media/deltaSigmaPiDraft3.a4246270.png": "/static/media/deltaSigmaPiDraft3.a4246270.png",
+    "static/media/everettInvite.04f90638.png": "/static/media/everettInvite.04f90638.png",
+    "static/media/giftSign.2b12824d.jpeg": "/static/media/giftSign.2b12824d.jpeg",
+    "static/media/gradAnnouncement1.480f33cd.jpeg": "/static/media/gradAnnouncement1.480f33cd.jpeg",
+    "static/media/gradParty.26cee5dd.png": "/static/media/gradParty.26cee5dd.png",
+    "static/media/receptionCard.c87c664f.png": "/static/media/receptionCard.c87c664f.png",
+    "static/media/tfaState.fdcefff3.jpeg": "/static/media/tfaState.fdcefff3.jpeg",
+    "static/media/tfaStateBanner2.b3471b86.jpeg": "/static/media/tfaStateBanner2.b3471b86.jpeg",
+    "static/media/wicsBanner.83d15840.png": "/static/media/wicsBanner.83d15840.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.12b8265c.js",
-    "static/js/2.25442c46.chunk.js",
-    "static/css/main.627d4317.chunk.css",
-    "static/js/main.c731ac80.chunk.js"
+    "static/js/runtime-main.f2b308f2.js",
+    "static/js/2.84b03e95.chunk.js",
+    "static/css/main.6c9a5f73.chunk.css",
+    "static/js/main.e82f2ef3.chunk.js"
   ]
 }
